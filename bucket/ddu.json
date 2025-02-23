@@ -1,13 +1,13 @@
 {
-    "version": "18.0.9.0",
+    "version": "18.0.9.3",
     "description": "Driver removal utility that can help you completely uninstall AMD/NVIDIA graphics card drivers and packages from your system, without leaving leftovers behind (including registry keys, folders and files, driver store)",
     "homepage": "https://github.com/Wagnard/display-drivers-uninstaller",
     "license": {
         "identifier": "Freeware",
         "url": "https://github.com/Wagnard/display-drivers-uninstaller/blob/WPF/LICENSE.md"
     },
-    "url": "https://ftp.nluug.nl/pub/games/PC/guru3d/ddu/%5BGuru3D.com%5D-DDU.zip",
-    "hash": "ee229e565a41b7c3f3cfc2b1739a9c8adc1b627f6cf8748e5a84cea06231b279",
+    "url": "https://ftp.nluug.nl/pub/games/PC/guru3d/ddu/%5BGuru3D%5D-DDU.zip",
+    "hash": "72b096d1bca1a16d3a6fbe2e592231964d554b917c67040ddfc6dbc6cf7bbf3d",
     "pre_install": [
         "$ddu = \"DDU v$version\"",
         "Expand-7zipArchive \"$dir/$ddu.exe\" \"$dir\" -ExtractDir $ddu -Removal",
@@ -26,6 +26,6 @@
         "regex": "<title>Display Driver Uninstaller \\(DDU\\) download version ([\\d.]+)</title>"
     },
     "autoupdate": {
-        "url": "https://ftp.nluug.nl/pub/games/PC/guru3d/ddu/%5BGuru3D.com%5D-DDU.zip"
+        "url": "https://ftp.nluug.nl/pub/games/PC/guru3d/ddu/%5BGuru3D%5D-DDU.zip"
     }
 }

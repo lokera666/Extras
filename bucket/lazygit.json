@@ -1,16 +1,16 @@
 {
-    "version": "0.45.0",
+    "version": "0.47.1",
     "description": "A simple terminal UI for git commands",
     "homepage": "https://github.com/jesseduffield/lazygit",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.45.0/lazygit_0.45.0_Windows_x86_64.zip",
-            "hash": "9994b828751b3546ea3ea886d2c616c8bac322f7476abecced43ef1ee3d40fe9"
+            "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.47.1/lazygit_0.47.1_Windows_x86_64.zip",
+            "hash": "5e0f5d6df89beb0b84cdc0eac1b3dc7b6061ebe47ec856bd0710610b82527d9d"
         },
         "32bit": {
-            "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.45.0/lazygit_0.45.0_Windows_32-bit.zip",
-            "hash": "da3b4fd711a599eebded646da572777d694c533e9504319e2cae77400f3766da"
+            "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.47.1/lazygit_0.47.1_Windows_32-bit.zip",
+            "hash": "3cada6f0d28d733b6343391f81fd95038a4940c6c24bbd03fa15d6260789fbaf"
         }
     },
     "bin": "lazygit.exe",

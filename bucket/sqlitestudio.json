@@ -1,16 +1,16 @@
 {
-    "version": "3.4.13",
+    "version": "3.4.16",
     "description": "A SQLite database manager",
     "homepage": "https://sqlitestudio.pl",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.13/sqlitestudio_x64-3.4.13.zip",
-            "hash": "d11e8530fa15d0523675f437cdcd1b37e56b34e7a69dc7caa86875f3392d4309"
+            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.16/sqlitestudio-3.4.16-windows-x64.zip",
+            "hash": "ae74068ac667d6fa75e9061dae1471e6eaa0220266c3f3f3276fd67ec761a3b4"
         },
         "32bit": {
-            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.13/sqlitestudio_i386-3.4.13.zip",
-            "hash": "baf180a968ade04a404d410592e0039cbec50fe606f5e0fca51c22a9fab76073"
+            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.16/sqlitestudio-3.4.16-windows-x86.zip",
+            "hash": "cbaa47335d4f5961250712f9092f0a51f5127ab39b590efd1d197e55b8ecc774"
         }
     },
     "extract_dir": "SQLiteStudio",
@@ -27,14 +27,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio_x64-$version.zip",
+                "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio-$version-windows-x64.zip",
                 "hash": {
                     "url": "https://github.com/pawelsalawa/sqlitestudio/releases/tag/$version",
                     "find": "<td>Windows\\s+?x64<\\/td>\\s*?<td>Portable<\\/td>[\\s\\S]*?<code>(.*?)<\\/code>"
                 }
             },
             "32bit": {
-                "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio_i386-$version.zip",
+                "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio-$version-windows-x86.zip",
                 "hash": {
                     "url": "https://github.com/pawelsalawa/sqlitestudio/releases/tag/$version",
                     "find": "<td>Windows\\s+?i386<\\/td>\\s*?<td>Portable<\\/td>[\\s\\S]*?<code>(.*?)<\\/code>"

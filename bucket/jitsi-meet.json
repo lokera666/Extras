@@ -1,10 +1,10 @@
 {
-    "version": "2025.1.0",
+    "version": "2025.2.0",
     "description": "Secure, Simple and Scalable Video Conferences.",
     "homepage": "https://jitsi.org/meet",
     "license": "Apache-2.0",
-    "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.1.0/jitsi-meet.exe#/dl.7z",
-    "hash": "sha512:e8f7b312d4623c0312f26edbc6d3b362b18b8540e4dcbc84a507ebdf0e6eeea2ca3c6b599222f642bbc03646f5ff70726c0cdc92188919a52a8f8bda75687782",
+    "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.2.0/jitsi-meet.exe#/dl.7z",
+    "hash": "sha512:2a85614ac45b99ff7da64277496c04ec1107a7c4ad9e1fdf1e8bf888d42e2cc034faa784fdfc25692e52be8aaacf8223c187be48c3a6823f9540325e1b8f4634",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""

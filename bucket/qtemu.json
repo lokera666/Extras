@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://web.archive.org/web/20210417194244/https://carlavilla.es/qtemu/qtemu_portable_x86_64.zip",
-            "hash": "99e1e44db5369739d7ed807b9db5f3464f6fdf66c1b7e35948ef88a48d1a115a",
+            "hash": "d87404a70522f87a75e613012d1c99f6e00535048c40a415a41a98ab86e55327",
             "extract_dir": "qtemu_portable_x86_64"
         }
     },

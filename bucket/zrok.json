@@ -1,12 +1,12 @@
 {
-    "version": "0.4.45",
+    "version": "0.4.48",
     "description": "Geo-scale, next-generation sharing platform built on top of OpenZiti",
     "homepage": "https://zrok.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/openziti/zrok/releases/download/v0.4.45/zrok_0.4.45_windows_amd64.tar.gz",
-            "hash": "sha1:918781fae0ea2f6c70621b14dc30cdefe1ed9e18"
+            "url": "https://github.com/openziti/zrok/releases/download/v0.4.48/zrok_0.4.48_windows_amd64.tar.gz",
+            "hash": "sha1:916b3b4b16f9215a0d5809fba8ba679a11420ef4"
         }
     },
     "bin": "zrok.exe",
