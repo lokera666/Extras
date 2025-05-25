@@ -1,12 +1,12 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.8",
     "description": "Follow everything in one place",
     "homepage": "https://follow.is/",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RSSNext/Folo/releases/download/v0.4.4/Folo-0.4.4-windows-x64.exe#/dl.7z",
-            "hash": "sha512:6a4617fbb38cbb67d1e40954fe12dede0e535e4012dc4474fd7c1e20fdac41abb0afc18e0ce56220a7d4911835d361284b622a4bdc7674dd7be6b4c0204b59cf"
+            "url": "https://github.com/RSSNext/Folo/releases/download/v0.4.8/Folo-0.4.8-windows-x64.exe#/dl.7z",
+            "hash": "sha512:a2b0755cf48c321c41f0b6b53e7c1bc00661ca8a050f9628438d168c31d6b40fb1a698b79dac78a3281dcf77d2f715f0630ec392a35bc13e1cf306b0d5af4284"
         }
     },
     "pre_install": [

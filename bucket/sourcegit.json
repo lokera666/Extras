@@ -1,16 +1,16 @@
 {
-    "version": "2025.16",
+    "version": "2025.18",
     "description": "Open-source GUI client for git users.",
     "homepage": "https://github.com/sourcegit-scm/sourcegit",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.16/sourcegit_2025.16.win-x64.zip",
-            "hash": "ec350a11bbca7f76ef4b6d1f70a936f0f8492fdf7f17e414e3e43b149c511cb4"
+            "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.18/sourcegit_2025.18.win-x64.zip",
+            "hash": "fb20564f4401d001f8d7bb42c9f4d98d8a6959e7062c819b6ec44487389975b3"
         },
         "arm64": {
-            "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.16/sourcegit_2025.16.win-arm64.zip",
-            "hash": "2acc55c77bb0da781683d8d02fbdf16400c9957ff990ecf03373df0968a1d14e"
+            "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.18/sourcegit_2025.18.win-arm64.zip",
+            "hash": "f039ab02b26b2e549140cf3c468383bd7f7edc5552c37849a919aff28f799cc1"
         }
     },
     "extract_dir": "SourceGit",
