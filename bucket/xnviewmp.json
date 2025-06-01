@@ -1,12 +1,12 @@
 {
-    "version": "1.8.8",
+    "version": "1.9.1",
     "description": "Photo viewer, image resizer & batch converter",
     "homepage": "https://www.xnview.com/en/xnviewmp/",
     "license": "Freeware|Proprietary",
     "architecture": {
         "64bit": {
             "url": "https://download.xnview.com/XnViewMP-win-x64.zip",
-            "hash": "ac9fe9da3a846360bff0a77b5145c715770379c32788af69edea7de0330d2412"
+            "hash": "6cb5dc91088620ac2969eb46cfaa8d129d0f4b4e82ed1fdbee9c14f1c7941c2c"
         },
         "32bit": {
             "url": "https://download.xnview.com/XnViewMP-win.zip",
