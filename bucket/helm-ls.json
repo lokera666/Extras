@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "Language server for Helm",
     "homepage": "https://github.com/mrjosh/helm-ls",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mrjosh/helm-ls/releases/download/v0.2.1/helm_ls_windows_amd64.exe#/helm-ls.exe",
-            "hash": "fdb1d471915be18070fc29f7e7ca37687edd9e5deff44ef9f642c3489655ec50"
+            "url": "https://github.com/mrjosh/helm-ls/releases/download/v0.3.0/helm_ls_windows_amd64.exe#/helm-ls.exe",
+            "hash": "30f821bb7668f5bac5ac2650116eb16c5fc2e5d9596ab643186bc1abaa9f4e5f"
         }
     },
     "bin": "helm-ls.exe",

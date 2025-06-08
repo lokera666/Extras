@@ -1,5 +1,5 @@
 {
-    "version": "5.13.1.1",
+    "version": "5.15.2.1",
     "description": "Telegram Desktop fork with material icons and some improvements.",
     "homepage": "https://github.com/kukuruzka165/materialgram",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kukuruzka165/materialgram/releases/download/v5.13.1.1/win64_materialgram_v5.13.1.1.zip",
-            "hash": "4095bb81a7ad236130f10d863a8b2cacef69809d35cb83aed9700906ed9ce1fd"
+            "url": "https://github.com/kukuruzka165/materialgram/releases/download/v5.15.2.1/win64_materialgram_v5.15.2.1.zip",
+            "hash": "d3859f72f99fb5d7da6fe344e033ccf429605708dad7ea08087547cf9998f3ee"
         }
     },
     "pre_install": "Remove-Item \"$dir\\Updater.exe\"",

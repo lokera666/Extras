@@ -1,10 +1,10 @@
 {
-    "version": "9.19.4",
+    "version": "9.21.2",
     "description": "Modern SSH client",
     "homepage": "https://www.termius.com",
     "license": "Unknown",
     "url": "https://autoupdate.termius.com/windows/Install%20Termius.exe#/dl.7z",
-    "hash": "sha512:802035e89e9539711ccd76aabe66cd5cf3480692a31051c04472bee98768bfb4084fd6a6b89764a3c37e10d878e76ddc6ddac0d1a8b2cb9b23d27ec48678e75e",
+    "hash": "sha512:9014c4e23551e64a6a7433acd3388bd12a08320262e486c6e1576da5b7c3c2b432c8e3a75d50a48bbe7728f9be34a7403c555f49788dc81bbb85656b7d11c668",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
