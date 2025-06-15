@@ -1,5 +1,5 @@
 {
-    "version": "136.0.7103.60",
+    "version": "137.0.7151.104",
     "description": "A Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy",
     "homepage": "https://www.cromite.org/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/uazo/cromite/releases/download/v136.0.7103.60-c9e77d3191e10055aa5ef929d2e553c10ea32b44/chrome-win.zip",
-            "hash": "2a62287f273aa0f297905e6446d8e8c7dbc63f4a33629f18aa1c18ae5586e95d"
+            "url": "https://github.com/uazo/cromite/releases/download/v137.0.7151.104-a427cbd404d3786353ab1cfc74aadcffaf22feeb/chrome-win.zip",
+            "hash": "e00d54a338cc93c5401ae59bc5c70f212b1802f902f19392053847bf39e85f25"
         }
     },
     "extract_dir": "chrome-win",
