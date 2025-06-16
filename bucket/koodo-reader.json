@@ -1,20 +1,20 @@
 {
-    "version": "1.9.6",
+    "version": "2.0.2",
     "homepage": "https://www.koodoreader.com",
     "description": "All-in-one ebook reader.",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.6/Koodo-Reader-1.9.6-x64-Win.zip",
-            "hash": "f073c74ad0560810fb2357bb97acb35595c675c2fefe1834e9d129f2208e21c9"
+            "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.0.2/Koodo-Reader-2.0.2-x64-Win.zip",
+            "hash": "f1a58e96e3958b9cf00afe15f59b66af3acbd9c9a0b25e25192dd32939dc892b"
         },
         "32bit": {
-            "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.6/Koodo-Reader-1.9.6-ia32-Win.zip",
-            "hash": "2c83bf24912ad51c9183d332e8491f3a92a9b20a500a98e19f0de5ec99ba743b"
+            "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.0.2/Koodo-Reader-2.0.2-ia32-Win.zip",
+            "hash": "dde0c87c4374cb2d29c088e6f64fcd1cecdc9752adc086e858bf0ef34c433286"
         },
         "arm64": {
-            "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.6/Koodo-Reader-1.9.6-arm64-Win.zip",
-            "hash": "2b2a981df1cce85defae29d46df12f06afe1a1ffeb6b54b5397095870442d0e4"
+            "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.0.2/Koodo-Reader-2.0.2-arm64-Win.zip",
+            "hash": "c92c14ce5749960d438e11d2a19c736775bf9e2a4159ebe74e659c2e1a689459"
         }
     },
     "shortcuts": [

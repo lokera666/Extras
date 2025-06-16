@@ -1,12 +1,12 @@
 {
-    "version": "0.12.1",
+    "version": "0.12.9",
     "description": "Command-line tool for generating beautiful code snippets",
     "homepage": "https://github.com/codesnap-rs/codesnap",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/codesnap-rs/codesnap/releases/download/v0.12.1/codesnap-cli_v0.12.1_x86_64-pc-windows-msvc.zip",
-            "hash": "57d965a54d4eaefbbdc6811535fdbe67a4e28e8504b30925328dca3db914f0d2"
+            "url": "https://github.com/codesnap-rs/codesnap/releases/download/v0.12.9/codesnap-cli_v0.12.9_x86_64-pc-windows-msvc.zip",
+            "hash": "c11184edc0ff66e5ac6991be6f6dec19bc4dba20ad2385280ee906e2e98b3422"
         }
     },
     "bin": "codesnap.exe",
